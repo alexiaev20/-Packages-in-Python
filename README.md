@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center" id="top"> 
   <img src="./.github/package.jpg" alt="Criacao De Pacotes Em Python" />
 
@@ -41,3 +42,6 @@ Feito com :heart: por <a href="https://github.com/isabellazramos" target="_blank
 &#xa0;
 
 <a href="#top">Voltar para o topo</a>
+=======
+# -Packages-in-Python
+>>>>>>> 3c0917c5603ee9f88c30146d44bbeadc79d245b5
